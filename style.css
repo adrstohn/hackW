@@ -4,6 +4,15 @@ img {
   
 }
 
+background {
+ color: Bisque;
+}
+
 p {
- color: rgb(56,23,0);
+ color: rgba(56,23,0,0.5);
+ text-color:green;
+}
+
+#banner {
+ font-size: 50px;
 }
