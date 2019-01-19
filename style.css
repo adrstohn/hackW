@@ -4,13 +4,14 @@ img {
   
 }
 
-background {
- color: Bisque;
+body {
+ background-color: Bisque;
 }
 
 p {
  color: rgba(56,23,0,0.5);
  text-color:green;
+ 
 }
 
 #banner {
